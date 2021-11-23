@@ -211,19 +211,19 @@ p, li {
 
 
   .color-brand-magenta {
-    background-color: var(--nmds-magenta);
+    background-color: var(--momi-magenta);
   }
-  .color-tangerine {
-    background-color: var(--nmds-tangerine);
+  .color-brand-tangerine {
+    background-color: var(--momi-tangerine);
   }
-  .color-ruby {
-    background-color: var(--nmds-ruby);
+  .color-brand-ruby {
+    background-color: var(--momi-ruby);
   }
   .color-brand-forest {
-    background-color: var(--nmds-forest);
+    background-color: var(--momi-forest);
   }
   .color-brand-blue {
-    background-color: var(--nmds-blue);
+    background-color: var(--momi-blue);
   }
 
 
@@ -232,12 +232,12 @@ p, li {
   }
 
   .color-gray-medium {
-    background-color: var(--nmds-gray-medium);
+    background-color: var(--cool-gray-medium);
   }
 
 
   .color-gray-light {
-    background-color: var(--nmds-gray-light);
+    background-color: var(--cool-gray-light);
   }
 
 
