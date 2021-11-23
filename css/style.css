@@ -211,38 +211,38 @@ p, li {
 
 
   .color-brand-magenta {
-    background-color: var(--momi-magenta);
+    background-color: #F5017F;
   }
   .color-brand-tangerine {
-    background-color: var(--momi-tangerine);
+    background-color: #FA503E;
   }
   .color-brand-ruby {
-    background-color: var(--momi-ruby);
+    background-color: #FF1F45;
   }
   .color-brand-forest {
-    background-color: var(--momi-forest);
+    background-color: #007C7D;
   }
   .color-brand-blue {
-    background-color: var(--momi-blue);
+    background-color: #0023AC;
   }
 
 
   .color-gray-dark {
-    background-color: var(--cool-gray-dark);
+    background-color: #7D7D7D;
   }
 
   .color-gray-medium {
-    background-color: var(--cool-gray-medium);
+    background-color: #CACACA;
   }
 
 
   .color-gray-light {
-    background-color: var(--cool-gray-light);
+    background-color: #E5E5E5;
   }
 
 
   .color-black {
-    background-color: var(--black);
+    background-color: #000000;
   }
 
 
