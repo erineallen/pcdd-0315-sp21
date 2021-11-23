@@ -115,7 +115,7 @@ main {
 .section {
   background:#fff;
   padding:2rem;
-  border: var(--lineColor) 1px solid;
+  border: #000000 1px solid;
   margin-bottom:2rem;
 }
 
